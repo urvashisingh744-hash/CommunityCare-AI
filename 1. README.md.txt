@@ -1,0 +1,73 @@
+# CommunityCare AI – Agents for Good
+
+CommunityCare AI is a multi-agent system designed to connect individuals with real-time community support, verified resources, and emergency assistance.  
+This project supports social good by making essential services accessible to everyone regardless of language, location, or digital literacy.
+
+---
+
+## 🚀 Features
+- Crisis Assistance Agent  
+- Resource Lookup Agent  
+- Social Welfare Navigator Agent  
+- Multilingual Support Agent  
+- Safety & Verification Agent  
+- 24/7 always-on help assistant  
+
+---
+
+## 🧠 Multi-Agent Architecture
+1. **Intake Agent** – Understands the user’s need  
+2. **Routing Agent** – Assigns correct agent  
+3. **Data Agent** – Fetches verified resources  
+4. **Support Agent** – Provides instructions  
+5. **Safety Agent** – Validates responses  
+6. **Response Generator** – Delivers output  
+
+Architecture details → `architecture.md`
+
+---
+
+## 📌 Problem Solved
+Many users — especially vulnerable communities — struggle to access emergency services, food support, shelters, mental health help, and government schemes.
+
+CommunityCare AI solves this by providing a single, always-available AI assistant to find help **instantly**.
+
+---
+
+## 🧩 Use Cases
+- Emergency guidance  
+- Finding nearest shelters  
+- Domestic violence helplines  
+- Mental health support  
+- Government welfare eligibility  
+- NGO & community resource lookup  
+
+---
+
+## 📄 Project Files
+- `project-description.md`  
+- `agent-workflow.md`  
+- `prompts.md`  
+- `future-improvements.md`  
+- `demo-instructions.md`  
+
+---
+
+## 🎥 Demo Video
+(Add your YouTube link here)
+
+---
+
+## 🌍 Live Demo Link
+(Add Replit / Website / Notion link here)
+
+---
+
+## 📝 License
+This project is licensed under MIT – see `license.txt`.
+
+---
+
+## ✨ Author
+Your Name  
+Agents for Good – OpenAI Capstone Project

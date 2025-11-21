@@ -1,0 +1,8 @@
+# Future Improvements
+
+- Add geolocation-based routing  
+- Build mobile app version  
+- Add WhatsApp/Telegram integration  
+- Expand international data sources  
+- Add voice-agent emergency mode  
+- Partner with NGOs for verified datasets  

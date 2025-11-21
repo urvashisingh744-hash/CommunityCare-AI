@@ -1,0 +1,20 @@
+# Demo Instructions (For YouTube Video)
+
+## 1. Introduction
+- Introduce yourself  
+- Explain project purpose  
+- Why “Agents for Good”  
+
+## 2. Demo the Agent
+Ask questions like:
+- “I need help finding a shelter near me.”  
+- “What are the emergency helplines?”  
+- “I need mental health support.”  
+
+Show how each agent responds.
+
+## 3. Architecture Slide
+Show architecture.md content.
+
+## 4. Conclusion
+Summarize impact and future improvements.

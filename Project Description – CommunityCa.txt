@@ -1,0 +1,25 @@
+# Project Description – CommunityCare AI
+
+CommunityCare AI is an AI-driven support system that connects people with verified community resources, emergency help, and welfare information.  
+It combines multiple specialized agents to deliver accurate, safe, and actionable help in real time.
+
+---
+
+## 🎯 Objectives
+- Make social support more accessible  
+- Reduce misinformation during emergencies  
+- Provide multilingual assistance  
+- Seamlessly route user queries to correct services  
+- Improve community-level response rates  
+
+---
+
+## 🧠 How It Works
+The system interprets user input, identifies urgency, and uses agents to fetch help from verified sources. It then returns step-by-step instructions, contacts, and actionable advice.
+
+---
+
+## 🛡 Safety
+- Two-step validation  
+- No medical/financial misinformation  
+- Reliable sources only  

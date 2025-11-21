@@ -1,0 +1,31 @@
+# Agent Workflow – CommunityCare AI
+
+## 1. User Input
+User describes their need: emergency, shelter, food, mental health, welfare, etc.
+
+## 2. Intake Agent
+Classifies intent (urgent / non-urgent).
+
+## 3. Routing Agent
+Routes query to one of the specialist agents:
+- Crisis Agent  
+- Resource Lookup Agent  
+- Welfare Navigator Agent  
+- Accessibility Agent  
+- Verification Agent  
+
+## 4. Data Agent
+Fetches:
+- NGOs  
+- Government portals  
+- Helplines  
+- Verified community databases  
+
+## 5. Safety Agent
+Checks for:
+- Accuracy  
+- Pseudoscience  
+- Wrong emergency advice  
+
+## 6. Response Generation
+Outputs clean, empathetic, stepwise instructions.

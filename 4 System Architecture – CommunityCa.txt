@@ -1,0 +1,16 @@
+# System Architecture – CommunityCare AI
+
+## 🔷 High-Level Architecture
+
+User → Intake Agent → Routing Agent → Data Agent → Safety Agent → Response
+
+### Components:
+- **Intake Agent:** Parses user intent  
+- **Routing Agent:** Sends to best-fitting agent  
+- **Data Agent:** Fetches verified info  
+- **Support Agent:** Formats assistance  
+- **Accessibility Agent:** Translations  
+- **Safety Agent:** Validates  
+
+Optional diagram (add your own):
+architecture.png
